@@ -2,7 +2,9 @@
 - 👀 I’m interested in development
 - 🌱 I’m currently learning web development (different frameworks)
 - 💻 I currently work as a Quality Engineer at TD
-- 📫 How to reach me: By email -  rayaannmeeran@gmail.com
+- 📫 How to reach me: 
+  -  By email: rayaannmeeran@gmail.com
+  -  LinkedIn: https://www.linkedin.com/in/rayaanmeeran/
 
 <!---
 rayaanmeeran/rayaanmeeran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
