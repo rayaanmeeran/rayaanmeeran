@@ -1,15 +1,14 @@
 Hi 👋 My name is Rayaan Meeran
 ==============================
 
-Quality Engineer
-----------------
+Software Developer
+------------------
 
-I'm a computer science graduate working towards become a software engineer. I am currently working as an IT Consultant and a Quality Engineer at one of Canada's biggest banks. Currently in my free time I am learning front end development.
+I'm a computer science graduate working as a SWE. Currently, in my free, time I am trying to broaden my frontend and backend dev skills.
 
 * 🌍  I'm based in Toronto
-* 🖥️  See my portfolio at [Rayaan.me](http://rayaan.me)
+* 🖥️  See my portfolio at [Rayaan.ca](http://rayaan.ca)
 * ✉️  You can contact me at [rayaanNmeeran@gmail.com](mailto:rayaanNmeeran@gmail.com)
-* 🧠  I'm learning React
 
 ### Skills
 
